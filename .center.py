@@ -1,0 +1,1 @@
+print("hellooo guyss".center(15))
